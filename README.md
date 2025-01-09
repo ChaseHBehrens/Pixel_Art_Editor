@@ -20,4 +20,4 @@ This editor allows for 3d visualization of color palettes, allowing you to see a
 <br><br>
 ![image](https://github.com/user-attachments/assets/2fcad429-f9a9-44c0-8037-6efcf3cc32b7)
 # Future plans
-This was built for testing and a basis of ideas for a 3d voxel editor that will export 2d pixel art images that represent isometric 3d objects. This would be a tool for game development simplifying asset creation by algorithmically creating 2d assets for many 3d angles of the object. 
+This was built for testing and a basis of ideas for a 3d voxel editor that will export 2d pixel art images that represent isometric 3d objects. This would be a tool for game development simplifying asset creation by algorithmically creating 2d assets from many 3d angles of the object. 
